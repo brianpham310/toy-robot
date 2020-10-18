@@ -5,6 +5,6 @@
    The main window will show all commands and how to send them to the Toy Robot.
    Commands can be in lowercase or uppercase.
 
-2. To run Unit tests. First you need to install PHPunit using composer. Cd to the root directory and run: composer install. It will install php unit package and its dependencies. After that to execute unit test run:
-./vendor/bin/phpunit --bootstrap vendor/autoload.php tests
+2. To run Unit tests. First you need to install PHPunit using composer. Cd to the root directory and run: composer install. It will install php unit package and its dependencies. After that to execute unit tests run:
+./vendor/bin/phpunit --bootstrap vendor/autoload.php tests.
 This will run all tests under tests directory.
